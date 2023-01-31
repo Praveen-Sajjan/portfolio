@@ -1,0 +1,14 @@
+{
+    "portfolio": [
+        {
+            "cover": "/public/portfolio/1/project1.png",
+            "title": "Product landing page",
+            "description": "Tailwind CSS, Javascript, HTML"
+        },
+        {
+            "cover": "/public/portfolio/1/project1.png",
+            "title": "Product landing page",
+            "description": "Tailwind CSS, Javascript, HTML"
+        }
+    ]
+}

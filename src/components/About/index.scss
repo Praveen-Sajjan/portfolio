@@ -1,0 +1,12 @@
+.image-container {
+    z-index: 0;
+    width: 400px;
+    height: 610px;
+    position: absolute;
+    top: 0;
+    right: -100%;
+    bottom: 0;
+    left: auto;
+    margin: auto;
+    object-fit: cover;
+}
